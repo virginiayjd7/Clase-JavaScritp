@@ -1,0 +1,30 @@
+
+
+.h1 {
+    background-color:#c1aec5 ;
+    padding: 16px;
+    margin: 16px;
+    display: block;
+    font-family: Verdana;
+    text-align: center;
+
+}
+h2 {
+    padding: 16px;
+    margin: 16px;
+    display: block;
+}
+p {
+    padding: 16px;
+    margin: 16px;
+    display: block; 
+}
+
+ol {
+    display: flex;
+}
+
+
+ul+li{
+    background-color: red;
+}
